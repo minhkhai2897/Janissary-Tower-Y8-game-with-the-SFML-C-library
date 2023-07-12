@@ -1,0 +1,6 @@
+anh/nv2_nhay_trai.png
+anh/nv2_nhay_phai.png
+anh/nv2_di_chuyen_trai.png
+anh/nv2_di_chuyen_phai.png
+anh/nv2_dung_trai.png
+anh/nv2_dung_phai.png
