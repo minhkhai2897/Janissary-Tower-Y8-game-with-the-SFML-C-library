@@ -4,7 +4,7 @@
 
 Recreate the [Janissary Tower Y8](https://vi.y8.com/games/janissary_tower) game using C++ language and the SFML library.
 
-<img src="anh/intro.png" alt="drawing"/>
+<img src="anh/intro.png" alt="drawing" width="800"/>
 
 Most of the game's graphics are captured and extracted by me from the original game. Some of them are self-drawn, while others are sourced from itch.io.
 
