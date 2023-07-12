@@ -2,6 +2,8 @@
 
 ## Introduction
 
+Recreate the [Janissary Tower Y8](https://vi.y8.com/games/janissary_tower) game using C++ language and the SFML library.
+
 <img src="anh/intro.png" alt="drawing" width="800"/>
 
 Most of the game's graphics are captured and extracted by me from the original game. Some of them are self-drawn, while others are sourced from itch.io.
@@ -19,5 +21,5 @@ Due to my lack of enthusiasm for physics, the elements in the game will not stri
 ## Sources
 
 * **Music: https://danosongs.com/**
-* **Character :  https://arks.itch.io/dino-characters**
+* **Character:  https://arks.itch.io/dino-characters**
 * **Original Game: https://vi.y8.com/games/janissary_tower**
